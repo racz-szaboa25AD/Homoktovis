@@ -65,3 +65,7 @@ h1,h2{
   text-transform: uppercase;
   color: #eb7100;
 }
+
+p{
+  text-align: justify;
+}
