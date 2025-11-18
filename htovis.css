@@ -55,6 +55,7 @@ p:first-letter{
 li{
   margin: 3px 0px;
   font-style: italic;
+  list-style-image: url(bogyo.png);
 }
 
 .blokktores{
@@ -86,21 +87,20 @@ p{
     margin-left: 15px;  
 }
 
-
-ol {
-    margin-left: 30px;
+#termes {
+    list-style-type: none;          
+    padding-left: 40px;             
 }
 
-
-ul.kepjeloles {
-    list-style: none;   
-    padding-left: 0;
-}
-
-ul.kepjeloles li {
-    background-image: url('pici_bogyó.png'); 
+#termes li {
+    background-image: url('termes.png');  
     background-repeat: no-repeat;
-    background-position: 0 5px; 
-    padding-left: 25px;  
-    margin-bottom: 5px;
+    background-position: left center;
+    background-size: 24px 24px;
+    padding-left: 35px;              
+    margin: 8px 0;
+}
+
+#termes li {
+    list-style-type: "Termés ";
 }
