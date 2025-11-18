@@ -73,3 +73,9 @@ p{
 #bevezeto{
   width: 600px;
 }
+
+.keret {
+  border: 3px solid black;
+  padding: 10px;
+  background-color: white;
+}
