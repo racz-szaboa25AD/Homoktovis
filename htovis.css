@@ -86,3 +86,21 @@ p{
     margin-left: 15px;  
 }
 
+
+ol {
+    margin-left: 30px;
+}
+
+
+ul.kepjeloles {
+    list-style: none;   
+    padding-left: 0;
+}
+
+ul.kepjeloles li {
+    background-image: url('pici_bogyó.png'); 
+    background-repeat: no-repeat;
+    background-position: 0 5px; 
+    padding-left: 25px;  
+    margin-bottom: 5px;
+}
