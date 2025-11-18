@@ -60,3 +60,8 @@ li{
 .blokktores{
   clear: both;
 }
+
+h1,h2{
+  text-transform: uppercase;
+  color: #eb7100;
+}
