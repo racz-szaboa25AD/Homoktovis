@@ -79,3 +79,9 @@ p{
   padding: 10px;
   background-color: white;
 }
+
+.kep-jobb {
+    float:none;
+    width: 500px;
+    margin-left: 15px;  
+}
